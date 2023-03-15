@@ -1,3 +1,3 @@
-const thisIsAFunction = "this is a test var";
+const thisIsAVar = "this is a test var";
 
-console.log(thisIsAFunction);
+const thisIsAVar2 = "2";
